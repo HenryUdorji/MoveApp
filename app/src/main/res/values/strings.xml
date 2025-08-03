@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MoveApp</string>
+    <string name="profile_image">profile_image</string>
+    <string name="your_location">Your location</string>
+    <string name="enter_the_receipt_number">Enter the receipt number...</string>
+    <string name="tracking">Tracking</string>
+    <string name="shipment_number">Shipment Number</string>
+    <string name="sender">Sender</string>
+    <string name="time">Time</string>
+    <string name="receiver">Receiver</string>
+    <string name="status">Status</string>
+    <string name="add_shop">Add Shop</string>
+    <string name="available_vehicles">Available Vehicles</string>
+    <string name="shipment_history">Shipment History</string>
+    <string name="destination">Destination</string>
+    <string name="shipments">Shipments</string>
+    <string name="sender_location">Sender location</string>
+    <string name="receiver_location">Receiver location</string>
+    <string name="packaging">Packaging</string>
+    <string name="what_are_you_sending">What are you sending?</string>
+    <string name="categories">Categories</string>
+    <string name="total_estimated_amount">Total Estimated Amount</string>
+    <string name="back_to_home">Back to home</string>
+    <string name="estimated_amount_info">This amount is estimated, this will vary if you change your location or weight</string>
+    <string name="calculate">Calculate</string>
+</resources>
