@@ -409,7 +409,7 @@ fun CategoryChip(
         },
         selected = isSelected,
         colors = FilterChipDefaults.filterChipColors(
-            selectedContainerColor = MaterialTheme.colorScheme.primary,
+            selectedContainerColor = Color(0xFF010001),
             selectedLabelColor = Color.White
         ),
         shape = RoundedCornerShape(10.dp)
